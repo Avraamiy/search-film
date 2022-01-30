@@ -13,6 +13,7 @@ export default createGlobalStyle`
   body {
     margin: 0;
     background: #14142B;
+    height: 100vh;
     font-family: 'Ubuntu', sans-serif;
   }
 `

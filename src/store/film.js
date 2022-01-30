@@ -38,21 +38,6 @@ class Film {
         this.page = 0
         this.totalPages = 0
     }
-
-    // setQuery(q) {
-    //     this.query = q
-    // }
-    //
-    // setPage(p) {
-    //     this.page = p
-    // }
-    //
-    // setFilms(films) {
-    //     this.films = films
-    // }
-    // setTotalPages(pages) {
-    //     this.totalPages = pages
-    // }
 }
 
 export default new Film()
